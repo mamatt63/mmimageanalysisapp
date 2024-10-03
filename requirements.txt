@@ -11,3 +11,6 @@ gcsfs
 termcolor
 uvicorn
 streamlit
+python-dotenv
+pillow
+azure-cognitiveservices-vision-computervision
